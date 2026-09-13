@@ -120,7 +120,7 @@
   "fieldSuggester": true,
   "enableOnloadScripts": false,
   "enableCommandLinks": false,
-  "compatibilityMode": false,
+  "compatibilityMode": true,
   "drawingOpenCount": 0,
   "library": "deprecated",
   "library2": {
