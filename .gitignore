@@ -25,3 +25,7 @@ Thumbs.db
 
 # Excalidraw temp
 *.excalidraw.tmp
+
+# Excalidraw .md source (using experimentalFileType: only .excalidraw is source of truth)
+Excalidraw/*.md
+Excalidraw/**/*.md
