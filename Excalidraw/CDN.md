@@ -1,0 +1,87 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+CDN -> Content Delivery Network 
+ ^lQnRNrlw
+
+CDN -> is a network of servers distributed worldwide(edge server ) that cahe 
+and serve content from the location nearest to the user 
+
+How does a CDN Works?
+
+Cache Miss (First Request is Miss)
+user(Mumbai) -> CDN edge server(Mumbai)-> Cache miss -> original server(US)-> return Img
+CDN edge mumbai cache it locally 
+return to user 
+
+Cache Hit (Subsequent Reuqest)
+User(Mumbai )-> CDN edge server(MUmbai )-> Cache Hit -> return Img
+No original server Queried
+
+Pull vs Push CDN 
+
+Pull CDN -> CDN fetches content from the server 
+pros most commonly used , used by CLoudFare , CloudFront
+cons -> FIrst Request always misses 
+
+Push CDN -> When user upload or admin upload content on CDN Edge Server
+
+Flow: 
+    You uppload video to cdn -> cdn distribute to all edge servers
+    user request video it already has it 
+
+Pros -> You control the cache yourself , No first request miss 
+cons -> Netflix pre postion popular content on the edge server 
+
+
+
+
+  ^hw3Eiaru
+
+%%
+## Drawing
+```compressed-json
+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
+
+Q/AbycAHyOgZkYIG0YAKvLyIAA==
+```
+%%

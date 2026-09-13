@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace/cache (per-machine state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache
+.obsidian/plugins/*/data.json.bak
+
+# Trash
+.trash/
+
+# Compiled plugin binaries (reinstall from community store; may contain vendor secrets)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Claudian / Claude local state
+.claudian/
+.claude/
+
+# Remotely-save temp
+._*
+
+# Excalidraw temp
+*.excalidraw.tmp
