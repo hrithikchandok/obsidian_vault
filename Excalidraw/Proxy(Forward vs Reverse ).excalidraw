@@ -7004,8 +7004,8 @@
 		{
 			"id": "ZsYTh00U",
 			"type": "text",
-			"x": 3965.0282524226295,
-			"y": 141.44428763945336,
+			"x": 3964.9803473891116,
+			"y": 141.8136807235021,
 			"width": 204.63983154296875,
 			"height": 175,
 			"angle": 0,
@@ -7064,7 +7064,7 @@
 			"version": 57,
 			"versionNonce": 1944376928,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397104815,
 			"locked": false,
 			"text": "ANY Better Solution ?? -> SERVICE MESH ",
@@ -7078,7 +7078,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "_I6mBm42slzxTjdsV8ufS",
@@ -7501,7 +7502,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"labelPosition": null
+			"labelPosition": null,
+			"link": null
 		},
 		{
 			"id": "_ny8r0CvTcIEOQ-TLMqyu",
@@ -7580,7 +7582,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"labelPosition": null
+			"labelPosition": null,
+			"link": null
 		},
 		{
 			"id": "U3hejrUT",
@@ -7602,11 +7605,11 @@
 			"index": "b2d",
 			"roundness": null,
 			"seed": 1257731680,
-			"version": 37,
-			"versionNonce": 712735648,
+			"version": 38,
+			"versionNonce": 1771936352,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397309711,
+			"boundElements": [],
+			"updated": 1789399744735,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7637,7 +7640,9 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "iEMqE1tp",
@@ -7659,11 +7664,11 @@
 			"index": "b2e",
 			"roundness": null,
 			"seed": 1861150624,
-			"version": 53,
-			"versionNonce": 1609672288,
+			"version": 54,
+			"versionNonce": 1807437408,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397307595,
+			"boundElements": [],
+			"updated": 1789399744735,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7694,7 +7699,9 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "Oc2dv5P0",
@@ -7716,11 +7723,11 @@
 			"index": "b2f",
 			"roundness": null,
 			"seed": 1666008672,
-			"version": 54,
-			"versionNonce": 347474528,
+			"version": 55,
+			"versionNonce": 1208124000,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397304095,
+			"boundElements": [],
+			"updated": 1789399744736,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7751,7 +7758,9 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "YGyFIvUD",
@@ -7773,11 +7782,11 @@
 			"index": "b2g",
 			"roundness": null,
 			"seed": 726328224,
-			"version": 39,
-			"versionNonce": 79943584,
+			"version": 40,
+			"versionNonce": 2101556832,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397305960,
+			"boundElements": [],
+			"updated": 1789399744736,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7808,7 +7817,9 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "M_Cf0SuwYA48J20hbdD0O",
@@ -7883,7 +7894,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"labelPosition": null
+			"labelPosition": null,
+			"link": null
 		},
 		{
 			"id": "DIB3ZEHq63UbXGX0CcKDW",
@@ -7958,7 +7970,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"hasTextLink": false,
-			"labelPosition": null
+			"labelPosition": null,
+			"link": null
 		},
 		{
 			"id": "NQsizdjZ",
@@ -7980,11 +7993,11 @@
 			"index": "b2l",
 			"roundness": null,
 			"seed": 2053707360,
-			"version": 32,
-			"versionNonce": 1074995808,
+			"version": 33,
+			"versionNonce": 810379872,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397301844,
+			"boundElements": [],
+			"updated": 1789399744737,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8015,7 +8028,9 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "LIi9GTBl",
@@ -8037,11 +8052,11 @@
 			"index": "b2m",
 			"roundness": null,
 			"seed": 264932256,
-			"version": 40,
-			"versionNonce": 873012128,
+			"version": 41,
+			"versionNonce": 1810964064,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397299893,
+			"boundElements": [],
+			"updated": 1789399744738,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8072,7 +8087,9 @@
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "ymrpoZXH",
@@ -8102,7 +8119,8 @@
 			"boundElements": [],
 			"updated": 1789397654427,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "hdtN5m69",
@@ -8132,7 +8150,8 @@
 			"boundElements": [],
 			"updated": 1789397654427,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "eaw0t9oB",
@@ -8167,7 +8186,8 @@
 			],
 			"updated": 1789397613372,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "QpNItSZJ",
@@ -8202,13 +8222,14 @@
 			],
 			"updated": 1789397407625,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "9AHqgWgd",
 			"type": "text",
-			"x": 5125.798600733308,
-			"y": 773.7647322961537,
+			"x": 5125.7986007333075,
+			"y": 773.7647322961536,
 			"width": 224.3598175048828,
 			"height": 25,
 			"angle": 0,
@@ -8224,11 +8245,11 @@
 			"index": "b2rV",
 			"roundness": null,
 			"seed": 2037197728,
-			"version": 87,
-			"versionNonce": 1687815776,
+			"version": 88,
+			"versionNonce": 1627279968,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789397407625,
+			"boundElements": [],
+			"updated": 1789399744738,
 			"locked": false,
 			"text": "Configuration Manager ",
 			"rawText": "Configuration Manager ",
@@ -8241,7 +8262,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "CQxw9ycnNPJr771QZy1J6",
@@ -8316,7 +8338,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "rFUOQj2fqStpd86Nf3YHW",
@@ -8391,7 +8414,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "AzgkmwgxoYx6EeCdcnARn",
@@ -8466,7 +8490,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "BYmJjJBW",
@@ -8491,7 +8516,7 @@
 			"version": 60,
 			"versionNonce": 1540816480,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397551146,
 			"link": null,
 			"locked": false,
@@ -8517,7 +8542,8 @@
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
 			"elbowed": false,
-			"moveMidPointsWithElement": false
+			"moveMidPointsWithElement": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "TIhj3fOy",
@@ -8542,7 +8568,7 @@
 			"version": 193,
 			"versionNonce": 104384096,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397514191,
 			"locked": false,
 			"text": "Pull From the Sidecar Recommended ",
@@ -8556,7 +8582,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "mOWOI8VD",
@@ -8583,10 +8610,11 @@
 			"version": 62,
 			"versionNonce": 1488320416,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397598894,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "Sc7mJ1m4",
@@ -8611,7 +8639,7 @@
 			"version": 59,
 			"versionNonce": 1674575776,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397574577,
 			"locked": false,
 			"text": "Data Plane",
@@ -8625,7 +8653,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "xiQv89S3",
@@ -8650,7 +8679,7 @@
 			"version": 62,
 			"versionNonce": 431645600,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397572710,
 			"locked": false,
 			"text": "Control plane",
@@ -8664,7 +8693,8 @@
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "HLi6PdCs",
@@ -8689,7 +8719,7 @@
 			"version": 465,
 			"versionNonce": 52654688,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397667543,
 			"link": null,
 			"locked": false,
@@ -8715,7 +8745,8 @@
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "DxWP7S6K",
@@ -8740,7 +8771,7 @@
 			"version": 26,
 			"versionNonce": 1963497056,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789397702808,
 			"locked": false,
 			"text": "Example IStio ",
@@ -8751,6 +8782,126 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Example IStio ",
+			"autoResize": true,
+			"lineHeight": 1.25,
+			"labelPosition": null,
+			"hasTextLink": false,
+			"link": null
+		},
+		{
+			"id": "ly7UhSAz",
+			"type": "text",
+			"x": -508.7412613798648,
+			"y": 3232.7679714844107,
+			"width": 674.99951171875,
+			"height": 150,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3D",
+			"roundness": null,
+			"seed": 1727412832,
+			"version": 388,
+			"versionNonce": 1620295264,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1789399483709,
+			"locked": false,
+			"text": "Whats the Diff between Reverese proxy and the loadbalancer ? \nAns : Loadbalancer has only one work to distribute the traffic \n    Reverse proxy has many features Distribute traffic , SSL/tLS \n    handshake , Caching , Authorization , authentication etc . \n    \n    Ex- AWS NLB is a load balancer and AWS ALB is a reverse proxy .",
+			"rawText": "Whats the Diff between Reverese proxy and the loadbalancer ? \nAns : Loadbalancer has only one work to distribute the traffic \n    Reverse proxy has many features Distribute traffic , SSL/tLS \n    handshake , Caching , Authorization , authentication etc . \n    \n    Ex- AWS NLB is a load balancer and AWS ALB is a reverse proxy .",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Whats the Diff between Reverese proxy and the loadbalancer ? \nAns : Loadbalancer has only one work to distribute the traffic \n    Reverse proxy has many features Distribute traffic , SSL/tLS \n    handshake , Caching , Authorization , authentication etc . \n    \n    Ex- AWS NLB is a load balancer and AWS ALB is a reverse proxy .",
+			"autoResize": true,
+			"lineHeight": 1.25,
+			"labelPosition": null,
+			"hasTextLink": false,
+			"link": null
+		},
+		{
+			"id": "t4I10d2T",
+			"type": "text",
+			"x": -515.3645455353135,
+			"y": 3449.680527575349,
+			"width": 673.1596069335938,
+			"height": 150,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3G",
+			"roundness": null,
+			"seed": 1497697184,
+			"version": 225,
+			"versionNonce": 2026972064,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1789399613426,
+			"locked": false,
+			"text": "Why to put Ngnix in fromt of application when it already has built in \nHTTP server? \nNgnix handles TLS efficiently , Cahcing the content , RateLimiiting , \nLoad Balancing etc . \n\n",
+			"rawText": "Why to put Ngnix in fromt of application when it already has built in \nHTTP server? \nNgnix handles TLS efficiently , Cahcing the content , RateLimiiting , \nLoad Balancing etc . \n\n",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Why to put Ngnix in fromt of application when it already has built in \nHTTP server? \nNgnix handles TLS efficiently , Cahcing the content , RateLimiiting , \nLoad Balancing etc . \n\n",
+			"autoResize": true,
+			"lineHeight": 1.25,
+			"labelPosition": null,
+			"hasTextLink": false,
+			"link": null
+		},
+		{
+			"id": "VdERGUL5",
+			"type": "text",
+			"x": -512.0529034575893,
+			"y": 3626.6399330528047,
+			"width": 439.019775390625,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3H",
+			"roundness": null,
+			"seed": 2038187936,
+			"version": 76,
+			"versionNonce": 1441024608,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1789399903354,
+			"locked": false,
+			"text": "when would you choose HAProxy over Ngnix ?\n \n",
+			"rawText": "when would you choose HAProxy over Ngnix ?\n \n",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "when would you choose HAProxy over Ngnix ?\n \n",
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
@@ -8775,10 +8926,10 @@
 		"currentItemEndArrowhead": null,
 		"currentItemArrowType": "sharp",
 		"currentItemFrameRole": null,
-		"scrollX": -1056.6084581893501,
-		"scrollY": 1129.0338044009595,
+		"scrollX": 727.4537068655613,
+		"scrollY": -2989.2414521760625,
 		"zoom": {
-			"value": 0.226563
+			"value": 0.783468
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
