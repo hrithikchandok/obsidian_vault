@@ -6,8 +6,8 @@
 		{
 			"id": "qqsy0VLQ",
 			"type": "text",
-			"x": -110.40625,
-			"y": -306.6796875,
+			"x": -105.0234375,
+			"y": -435.9765625,
 			"width": 231.26390075683594,
 			"height": 41.4,
 			"angle": 0,
@@ -23,11 +23,11 @@
 			"index": "a0",
 			"roundness": null,
 			"seed": 573690187,
-			"version": 91,
-			"versionNonce": 1816534085,
+			"version": 149,
+			"versionNonce": 1040642449,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789477835628,
+			"boundElements": [],
+			"updated": 1789535092284,
 			"locked": false,
 			"text": "API GATEWAY ",
 			"rawText": "API GATEWAY ",
@@ -40,7 +40,8 @@
 			"autoResize": true,
 			"lineHeight": 1.15,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		}
 	],
 	"appState": {
@@ -61,10 +62,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 510.28515625,
-		"scrollY": 420.3515625,
+		"scrollX": 249.91687774658203,
+		"scrollY": 496.15546875,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
