@@ -6,10 +6,10 @@
 		{
 			"id": "pwdNzEJJvzGMsv1t2KykP",
 			"type": "line",
-			"x": -128.8984375,
-			"y": -156.59375,
-			"width": 0.9765625,
-			"height": 573.80859375,
+			"x": -33.55786328393219,
+			"y": -195.31202792401012,
+			"width": 8.677104493305137,
+			"height": 1396.2870749527924,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -25,11 +25,11 @@
 				"type": 2
 			},
 			"seed": 1799271680,
-			"version": 61,
-			"versionNonce": 2115753216,
+			"version": 352,
+			"versionNonce": 1808608915,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789813944096,
+			"boundElements": [],
+			"updated": 1789816018766,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38,23 +38,24 @@
 					0
 				],
 				[
-					0.9765625,
-					573.80859375
+					8.677104493305137,
+					1396.2870749527924
 				]
 			],
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "FEAtY7Ec",
 			"type": "text",
-			"x": -418.5703125,
-			"y": -198.7421875,
-			"width": 265.73980712890625,
-			"height": 225,
+			"x": -644.5169705953879,
+			"y": -192.0788397267707,
+			"width": 578.759521484375,
+			"height": 1275,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -68,20 +69,20 @@
 			"index": "a1",
 			"roundness": null,
 			"seed": 773184256,
-			"version": 138,
-			"versionNonce": 363920128,
+			"version": 1765,
+			"versionNonce": 841528755,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1789814130866,
+			"boundElements": [],
+			"updated": 1789819660244,
 			"locked": false,
-			"text": "Topics \n\n\n1. Data Pages -> 8kb \n each DataPage can store \n  multiple tables.\n2. headers, Data Records, \n    offset \n3. ",
-			"rawText": "Topics \n\n\n1. Data Pages -> 8kb \n each DataPage can store \n  multiple tables.\n2. headers, Data Records, \n    offset \n3. ",
+			"text": "Topics \n\n\n1. Data Pages -> 8kb \n each DataPage can store \n  multiple tables.\n2. headers, Data Records, \n    offset \n3. Data block-> Physical\n    Memory\n4. Data block is the min\n    amount of data that can \n    be read my single I/O \n    operation \n5. DataBlock size range is \n    4kb to 32kb .(most cmn\n    size if 8kb only )\n6. DBMS manage the mapping\n    of DataBlock and Data-\n    page \n    {DataBlock1 : DataPage1}\n    {DataBlock1 : DataPage2}\n7.Types of Indexing \n    a. Clustered Indexing\n    b.Non Clustered Indexing\n8.Indexing-> W/o indexing we need\n    to search the complete billion \n    rows . Tc O(n) \n9. B Tree provide O(log N) \n    for insertion , deletion , seach\n10. B+ tree has one addition feature \n    that all the child notes are linked\n    with each other \n11. DBMS uses B+ tree to store the DataPages and\n    rows within that pages\n12. B+ tree contain root and intermedidate nodes \n    just for faster search \n13. Leaf nodes would contain actual index data pages\n14.  Page Spliting \n15. Clustering Index-> offset order matches with the index\n    order \n16. IN db there can be only clustered index\n17. Primary key are the clustered index \n18. what if there is no Primary key then db has internal \n    column that will be considered as Cluster key \n19. Non Clustered index -> Offset ordering is only for the \n    Clustered index not for non clustered index\n\n\n\n",
+			"rawText": "Topics \n\n\n1. Data Pages -> 8kb \n each DataPage can store \n  multiple tables.\n2. headers, Data Records, \n    offset \n3. Data block-> Physical\n    Memory\n4. Data block is the min\n    amount of data that can \n    be read my single I/O \n    operation \n5. DataBlock size range is \n    4kb to 32kb .(most cmn\n    size if 8kb only )\n6. DBMS manage the mapping\n    of DataBlock and Data-\n    page \n    {DataBlock1 : DataPage1}\n    {DataBlock1 : DataPage2}\n7.Types of Indexing \n    a. Clustered Indexing\n    b.Non Clustered Indexing\n8.Indexing-> W/o indexing we need\n    to search the complete billion \n    rows . Tc O(n) \n9. B Tree provide O(log N) \n    for insertion , deletion , seach\n10. B+ tree has one addition feature \n    that all the child notes are linked\n    with each other \n11. DBMS uses B+ tree to store the DataPages and\n    rows within that pages\n12. B+ tree contain root and intermedidate nodes \n    just for faster search \n13. Leaf nodes would contain actual index data pages\n14.  Page Spliting \n15. Clustering Index-> offset order matches with the index\n    order \n16. IN db there can be only clustered index\n17. Primary key are the clustered index \n18. what if there is no Primary key then db has internal \n    column that will be considered as Cluster key \n19. Non Clustered index -> Offset ordering is only for the \n    Clustered index not for non clustered index\n\n\n\n",
 			"fontSize": 20,
 			"fontFamily": 5,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Topics \n\n\n1. Data Pages -> 8kb \n each DataPage can store \n  multiple tables.\n2. headers, Data Records, \n    offset \n3. ",
+			"originalText": "Topics \n\n\n1. Data Pages -> 8kb \n each DataPage can store \n  multiple tables.\n2. headers, Data Records, \n    offset \n3. Data block-> Physical\n    Memory\n4. Data block is the min\n    amount of data that can \n    be read my single I/O \n    operation \n5. DataBlock size range is \n    4kb to 32kb .(most cmn\n    size if 8kb only )\n6. DBMS manage the mapping\n    of DataBlock and Data-\n    page \n    {DataBlock1 : DataPage1}\n    {DataBlock1 : DataPage2}\n7.Types of Indexing \n    a. Clustered Indexing\n    b.Non Clustered Indexing\n8.Indexing-> W/o indexing we need\n    to search the complete billion \n    rows . Tc O(n) \n9. B Tree provide O(log N) \n    for insertion , deletion , seach\n10. B+ tree has one addition feature \n    that all the child notes are linked\n    with each other \n11. DBMS uses B+ tree to store the DataPages and\n    rows within that pages\n12. B+ tree contain root and intermedidate nodes \n    just for faster search \n13. Leaf nodes would contain actual index data pages\n14.  Page Spliting \n15. Clustering Index-> offset order matches with the index\n    order \n16. IN db there can be only clustered index\n17. Primary key are the clustered index \n18. what if there is no Primary key then db has internal \n    column that will be considered as Cluster key \n19. Non Clustered index -> Offset ordering is only for the \n    Clustered index not for non clustered index\n\n\n\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
 			"labelPosition": null,
@@ -92,7 +93,7 @@
 			"type": "text",
 			"x": -198.3203125,
 			"y": -483.70703125,
-			"width": 198.50390625,
+			"width": 206.12109375,
 			"height": 41.4,
 			"angle": 0,
 			"strokeColor": "#e03131",
@@ -110,7 +111,7 @@
 			"version": 23,
 			"versionNonce": 1428085504,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1789813970182,
 			"locked": false,
 			"text": "DB Indexing ",
@@ -124,7 +125,8 @@
 			"autoResize": true,
 			"lineHeight": 1.15,
 			"labelPosition": null,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		}
 	],
 	"appState": {
@@ -145,10 +147,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 735.28515625,
-		"scrollY": 583.3515625,
+		"scrollX": 1460.317130273721,
+		"scrollY": -129.70835588340327,
 		"zoom": {
-			"value": 1
+			"value": 0.8738
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
