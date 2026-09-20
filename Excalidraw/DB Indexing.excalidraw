@@ -6,8 +6,8 @@
 		{
 			"id": "pwdNzEJJvzGMsv1t2KykP",
 			"type": "line",
-			"x": -33.55786328393219,
-			"y": -195.31202792401012,
+			"x": 87.31773038738834,
+			"y": -148.54700017166405,
 			"width": 8.677104493305137,
 			"height": 1396.2870749527924,
 			"angle": 0,
@@ -25,11 +25,11 @@
 				"type": 2
 			},
 			"seed": 1799271680,
-			"version": 352,
-			"versionNonce": 1808608915,
+			"version": 386,
+			"versionNonce": 1889199027,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1789816018766,
+			"updated": 1789889105531,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -147,8 +147,8 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 1460.317130273721,
-		"scrollY": -129.70835588340327,
+		"scrollX": 1207.3988423359738,
+		"scrollY": 360.10624700055126,
 		"zoom": {
 			"value": 0.8738
 		},
