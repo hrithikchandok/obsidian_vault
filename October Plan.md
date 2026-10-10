@@ -14,7 +14,7 @@ TRACK -> Below
 | Indexing   | DSA topic | LLD | HLD Design |
 | ---------- | --------- | --- | ---------- |
 | 1-7 oct    |           |     |            |
-| 8-14 oct   |           |     |            |
+| 8-14 oct   |           |     | 1          |
 | 15 -21 oct |           |     |            |
 | 22-28 oct  |           |     |            |
 | 29-31 oct  |           |     |            |
