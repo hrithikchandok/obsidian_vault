@@ -11,10 +11,10 @@ Target
 
 TRACK -> Below 
 
-| Indexing   | DSA topic | LLD | HLD Design |
-| ---------- | --------- | --- | ---------- |
-| 1-7 oct    |           |     |            |
-| 8-14 oct   |           | 0   | 1 Hotel    |
-| 15 -21 oct |           |     |            |
-| 22-28 oct  |           |     |            |
-| 29-31 oct  |           |     |            |
+| Indexing   | DSA topic | LLD | HLD Design                                              |
+| ---------- | --------- | --- | ------------------------------------------------------- |
+| 1-7 oct    |           |     |                                                         |
+| 8-14 oct   |           | 0   | Hotel Reservation system                                |
+| 15 -21 oct | 0         | 0   | Consistent hashin, Rate Limiter, Design key value Store |
+| 22-28 oct  |           |     |                                                         |
+| 29-31 oct  |           |     |                                                         |

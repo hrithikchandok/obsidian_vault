@@ -61,5 +61,7 @@
 59. Red Box Logic in Complete Capture Logic. 
 60. Shortcuts logic in outlook, SAP .
 61. Found One more thing that payload size of Lambda is very less . Its 6mb if its direct and if its behind alb then its 1mb only not more than that . Thats why faced 413 error in the payload itself.
+62. Worked on Video TO SOP feature where worked on Edit Description feature where i was seeing the issue with the frameid generation logic. It was current frameLenght+1 due to there was a chance of geerating the duplicate frameid . Due to this we can see the issue like description has been edieted to diff frame can be asssigned to diff frame . 
+63. To handle duplicate frame id generation i re wrote the complete frame id generation part with the new one where i am doing Max frame id till now generated +1 to make sure this frameid can never get duplicated . 
     
   
