@@ -8,19 +8,6 @@ I have also worked on distributed real-time communication using WebSockets, ECS,
 
 Overall, my core strength is backend development with Java and Spring Boot, combined with asynchronous processing, messaging systems like Kafka and SQS, concurrency, and designing scalable distributed services.
 
-
-
-
-
-
-
-
-JD.  
-
-
-
-
-
 Responsibilities
 • Design, develop, test, and deploy scalable and robust web applications using Java and related technologies.
 • Build responsive and user-friendly frontend applications using Angular or similar frameworks.
@@ -42,8 +29,4 @@ Technical and Professional Requirements:
 • Experience with Docker, container images, and container registries (e.g., Nexus).
 • Familiarity with CI/CD pipelines, Jenkins, Git, and version control systems.
 • Exposure to cloud platforms such as AWS, Azure, or GCP. 
-Preferred Skills:
- Technology->Java->Core Java 
- Technology->Java->Springboot 
- Technology->Microservices->Microservices API Management 
- Technology->Java->Apache->Kafka 
+
