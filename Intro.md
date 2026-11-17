@@ -47,6 +47,3 @@ Preferred Skills:
  Technology->Java->Springboot 
  Technology->Microservices->Microservices API Management 
  Technology->Java->Apache->Kafka 
-
-
-<!-- Prep Console save test -->
