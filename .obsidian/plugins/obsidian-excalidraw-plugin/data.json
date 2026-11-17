@@ -22,7 +22,7 @@
   "loadChineseFonts": false,
   "loadJapaneseFonts": false,
   "loadKoreanFonts": false,
-  "compress": true,
+  "compress": false,
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
   "autosaveIntervalDesktop": 60000,
